@@ -24,6 +24,13 @@ Notes:
 - Firefox must be fully restarted after changes.
 - The browser will show **"Your browser is managed by your organisation"** when active.
 
+### Working Example
+A working copy of my policy, can be found in configuration/policies.json of this repo. 
+
+This configuration ***WILL NOT BE SUITABLE FOR YOU***
+
+You will need to craft your own. Feel free to consider this a working example only. 
+
 ------------------------------------------------------------------------
 
 ## 2. Policy Configuration and Rationale
