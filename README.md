@@ -9,9 +9,9 @@ Firefox supports a built‑in enterprise feature that reads a
 automatically. This allows Firefox to be configured in a **declarative,
 reproducible, and version‑controlled** way.
 
-Official Mozilla documentation: -
-https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson -
-https://mozilla.github.io/policy-templates/
+Official Mozilla documentation: 
+- https://support.mozilla.org/en-US/kb/customizing-firefox-using-policiesjson
+- https://mozilla.github.io/policy-templates/
 
 ### Where to place the file (macOS)
 
